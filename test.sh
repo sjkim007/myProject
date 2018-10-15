@@ -1,1 +1,1 @@
-vmstat 1 100
+vmstat 2 100
